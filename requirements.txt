@@ -1,3 +1,0 @@
-streamlit
-scikit_learn
-nltk
